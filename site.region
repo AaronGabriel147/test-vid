@@ -118,6 +118,7 @@
                   {.section logoImageUrl}
                     <img src="{logoImageUrl}?format=1500w" alt="{siteTitle}" class="Header-branding-logo" />
                   {.or}
+                  <p>sdafasf </p>
                     {siteTitle}
                   {.end}
                 {.end}
